@@ -3925,20 +3925,22 @@ input, select, textarea {
 			visibility: visible;
 		}
 
+/* @media screen and (min-width: 1280px) {
 
-.leftMethod{
-	margin-left: 25vh;
+	.leftMethod{
+		margin-left: 25vh;
 
-}
-.midMethod {
-	margin-left: 50vh;
-}
-.rightMethod {
-  height: 250px;
-  margin: -20px 0px -100px 75vh;
-  /* text-align: right; */
-  /* display: flex; */
-  overflow: hidden;
-}
+	}
+	.midMethod {
+		margin-left: 50vh;
+	}
+	.rightMethod {
+	  height: 250px;
+	  margin: -20px 0px -100px 75vh;
+	  overflow: hidden;
+	}
+} */
+/* text-align: right; */
+/* display: flex; */
 /* 2711 for image fill edits */
 /* 3621 width/rightBorder commented out */
