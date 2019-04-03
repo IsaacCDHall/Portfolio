@@ -3611,7 +3611,7 @@ input, select, textarea {
 
 			#contact > .inner > :nth-child(2n - 1) {
 				padding: 4em 3em 2em 0 ;
-				/* border-right: solid 1px rgba(212, 212, 255, 0.1); */
+				border-right: solid 1px rgba(212, 212, 255, 0.1);
 				width: 100%;
 			}
 
@@ -3637,7 +3637,7 @@ input, select, textarea {
 						position: absolute;
 						top: 0;
 						/* width: calc(100vw + 3em); */
-						width:2500px;
+						/* width:2500px; */
 					}
 
 				#contact > .inner > .split > :first-child:before {
